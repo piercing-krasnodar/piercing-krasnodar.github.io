@@ -318,6 +318,7 @@
 								
 									var $t = $(this),
 										$c = $t.children('.content'),
+                                        $wrapper = $('skel-layers-wrapper'),
 										x = Math.max(100, Math.round(($window.height() - $c.outerHeight() - $header.outerHeight()) / 2) + 1);
 
 									$t
