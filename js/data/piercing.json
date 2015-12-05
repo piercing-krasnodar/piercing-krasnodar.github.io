@@ -1,0 +1,19 @@
+[
+    {"name":"Пупок", "image":"pupok.jpg", "price":"600"},
+    {"name":"Смайл", "image":"smayl.jpg", "price":"550"},
+    {"name":"Лабрет нижний", "image":"labret_nizhny.jpg", "price":"500"},
+    {"name":"Медуза", "image":"meduzaa.jpg", "price":"500"},
+    {"name":"Язык", "image":"yazyk.jpg", "price": "600"},
+    {"name":"Бровь", "image":"brov.jpg", "price": "550"},
+    {"name":"Индастриал", "image":"indastrial.jpg", "price":"600"},
+    {"name":"Сосок", "image":"sosok.jpg", "price":"650"},
+    {"name":"Мочка уха", "image":"irsing_mochki.jpg", "price":"250"},
+    {"name":"Мадонна", "image":"madonna.jpg", "price":"500"},
+    {"name":"Нострил", "image":"nostril (1).jpg", "price":"600"},
+    {"name":"Пирсниг хряща", "image":"pirsing_khryascha.jpg", "price":"450"},
+    {"name":"Нижнияя губа", "image":"pirsing_nizhney_guby.jpg", "price":"500"},
+    {"name":"Септум", "image":"septum.jpg", "price":"600"},
+    {"name":"Симметрия губы", "image":"simmetria_guby.jpg", "price":"900"},
+    {"name":"Туннель", "image":"tunnel.jpg", "price":"500"},
+    {"name": "Уздечка языка", "image":"peregorodka.jpg", "price":"600"}
+]

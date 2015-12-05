@@ -1,15 +1,21 @@
+.catalog-items.hidden{
+    display: none;
+}
 
-
+#jewels-catalog .thumb{
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 .item{
     width: 100%;
-    height: 260px;
+    height: 340px;
     background: #ffffff;
     margin-top: 2em;
 }
 
 .item .thumb{
-    height: 200px;
+    height: 273px;
     background-position: center top;
     background-size: cover;
 }
