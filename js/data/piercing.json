@@ -14,6 +14,6 @@
     {"name":"Нижнияя губа", "image":"pirsing_nizhney_guby.jpg", "price":"500"},
     {"name":"Септум", "image":"septum.jpg", "price":"600"},
     {"name":"Симметрия губы", "image":"simmetria_guby.jpg", "price":"900"},
-    {"name":"Туннель", "image":"tunnel.jpg", "price":"500"},
+    {"name":"Тоннель", "image":"tunnel.jpg", "price":"500"},
     {"name": "Уздечка языка", "image":"peregorodka.jpg", "price":"700"}
 ]
